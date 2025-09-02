@@ -1,3 +1,7 @@
 # Quant_Explorer
 
-thanks to https://github.com/microsoft/qlib#
+we focus on the 'k-graph-cnn' framework, using llm(decoder mainly), to build a clear transaction platform.
+
+Team: xhy, zmy, wy
+
+thanks to your contributions!

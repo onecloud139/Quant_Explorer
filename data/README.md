@@ -41,9 +41,6 @@ python get_data.py qlib_data --name qlib_data_simple --target_dir ~/.qlib/qlib_d
 python get_data.py qlib_data --help
 ```
 
-## Using in Qlib
-> For more information: https://qlib.readthedocs.io/en/latest/start/initialization.html
-
 
 ### US data
 
